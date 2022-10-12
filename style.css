@@ -1,0 +1,17 @@
+h4{
+    text-align: center;
+    padding: 10px 10px;
+    font-weight:bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:red;
+    color: ghostwhite;
+}
+
+.pagination{
+    margin-top: 25px;
+    
+}
+body{
+    background-color:whitesmoke; 
+    
+}
